@@ -2,6 +2,10 @@
 
 Restaurant is a very basic app to clear react component and state concepts.
 
+## Deployement
+
+https://akhilesh17-tech.github.io/Restaurant_app/
+
 ## Features
 
 - Search results according to category
